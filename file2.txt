@@ -1,0 +1,2 @@
+jeg er file 2
+jeg er ikke checked in
